@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1642413511 source:d:\coba-coba c++\latihan include\main.cpp
+
+1642415141 source:d:\coba-coba c++\latihan include\starter.cpp
+	<iostream>
+	"bahan.h"
+
+1642413104 d:\coba-coba c++\latihan include\bahan include.cpp
+	<iostream>
+
+1642415141 source:d:\coba-coba c++\latihan include\bahan include.cpp
+	<iostream>
+
+1642415141 d:\coba-coba c++\latihan include\bahan.h
+
